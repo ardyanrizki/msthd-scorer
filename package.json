@@ -1,0 +1,19 @@
+{
+  "name": "msthd-scorer",
+  "version": "1.0.1",
+  "description": "MSTHD Scorer is a Node.js library for scoring test results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardyanrizki/msthd-scorer.git"
+  },
+  "author": "ardyanrizki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardyanrizki/msthd-scorer/issues"
+  },
+  "homepage": "https://github.com/ardyanrizki/msthd-scorer#readme"
+}
